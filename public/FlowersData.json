@@ -19,12 +19,12 @@
   },
   {
     "flower_name": "Tulip",
-    "flower_img": "https://i.ibb.co/Z1LtQ2hk/Tulip.jpg",
-    "flower_color": "Yellow",
+    "flower_img": "https://i.ibb.co/T5CmWw7/Lotus.jpg",
+    "flower_color": "Various (Red, Yellow, Purple)",
     "flower_type": "Bulb",
-    "origin": "Turkey",
+    "origin": "Turkey / Netherlands",
     "price": 180,
-    "symbolism": "Happiness and Cheerfulness"
+    "symbolism": "Perfect Love and Cheerfulness"
   },
   {
     "flower_name": "Sunflower",
@@ -37,74 +37,20 @@
   },
   {
     "flower_name": "Marigold",
-    "flower_img": "https://i.ibb.co/x8tL2XnK/Marigold.jpg",
-    "flower_color": "Orange",
+    "flower_img": "https://i.ibb.co/8nHYVDWR/Rose.jpg",
+    "flower_color": "Orange / Yellow",
     "flower_type": "Annual",
-    "origin": "Mexico",
+    "origin": "Mexico / South America",
     "price": 80,
-    "symbolism": "Prosperity and Good luck"
+    "symbolism": "Prosperity and Good Luck"
   },
   {
     "flower_name": "Lily",
-    "flower_img": "https://i.ibb.co/ZRT13sVS/Lily.jpg",
-    "flower_color": "White",
+    "flower_img": "https://i.ibb.co/8nHYVDWR/Rose.jpg",
+    "flower_color": "White / Pink",
     "flower_type": "Perennial",
-    "origin": "Asia",
+    "origin": "Asia / Europe",
     "price": 180,
-    "symbolism": "Purity and Renewal"
-  },
-  {
-    "flower_name": "Jasmine",
-    "flower_img": "https://i.ibb.co/3m55vXQp/Jasmine.jpg",
-    "flower_color": "White",
-    "flower_type": "Shrub",
-    "origin": "India",
-    "price": 100,
-    "symbolism": "Purity and Peace"
-  },
-  {
-    "flower_name": "Daisy",
-    "flower_img": "https://i.ibb.co/T5CmWw7/Lotus.jpg",
-    "flower_color": "White",
-    "flower_type": "Annual",
-    "origin": "Europe",
-    "price": 90,
-    "symbolism": "Innocence and Hope"
-  },
-  {
-    "flower_name": "Lavender",
-    "flower_img": "https://i.ibb.co/T5CmWw7/Lotus.jpg",
-    "flower_color": "Purple",
-    "flower_type": "Perennial",
-    "origin": "Mediterranean",
-    "price": 160,
-    "symbolism": "Calmness and Healing"
-  },
-  {
-    "flower_name": "Hibiscus",
-    "flower_img": "https://i.ibb.co/T5CmWw7/Lotus.jpg",
-    "flower_color": "Red",
-    "flower_type": "Shrub",
-    "origin": "Asia",
-    "price": 110,
-    "symbolism": "Delicate Beauty and Fame"
-  },
-  {
-    "flower_name": "Peony",
-    "flower_img": "https://i.ibb.co/T5CmWw7/Lotus.jpg",
-    "flower_color": "Pink",
-    "flower_type": "Perennial",
-    "origin": "China",
-    "price": 220,
-    "symbolism": "Romance and Prosperity"
-  },
-  {
-    "flower_name": "Cherry Blossom",
-    "flower_img": "https://i.ibb.co/T5CmWw7/Lotus.jpg",
-    "flower_color": "Light Pink",
-    "flower_type": "Tree Bloom",
-    "origin": "Japan",
-    "price": 300,
-    "symbolism": "Beauty and Transience"
+    "symbolism": "Purity, Renewal, and Motherhood"
   }
 ]
