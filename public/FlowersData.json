@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "flower_name": "Rose",
     "flower_img": "https://i.ibb.co/8nHYVDWR/Rose.jpg",
     "flower_color": "Red",
@@ -9,6 +10,17 @@
     "symbolism": "Love and Romance"
   },
   {
+    "id": 2,
+    "flower_name": "Lotus",
+    "flower_img": "https://i.ibb.co/qYdxgg0V/louts-Yellow.jpg",
+    "flower_color": "Yellow",
+    "flower_type": "Aquatic",
+    "origin": "India",
+    "price": 200,
+    "symbolism": "Purity and Enlightenment"
+  },
+  {
+    "id": 3,
     "flower_name": "Lotus",
     "flower_img": "https://i.ibb.co/T5CmWw7/Lotus.jpg",
     "flower_color": "Pink",
@@ -18,15 +30,7 @@
     "symbolism": "Purity and Enlightenment"
   },
   {
-    "flower_name": "Tulip",
-    "flower_img": "https://i.ibb.co/T5CmWw7/Lotus.jpg",
-    "flower_color": "Various (Red, Yellow, Purple)",
-    "flower_type": "Bulb",
-    "origin": "Turkey / Netherlands",
-    "price": 180,
-    "symbolism": "Perfect Love and Cheerfulness"
-  },
-  {
+    "id": 4,
     "flower_name": "Sunflower",
     "flower_img": "https://i.ibb.co/YFKHSwYw/Sunflower.jpg",
     "flower_color": "Yellow",
@@ -36,21 +40,23 @@
     "symbolism": "Positivity and Strength"
   },
   {
-    "flower_name": "Marigold",
-    "flower_img": "https://i.ibb.co/8nHYVDWR/Rose.jpg",
-    "flower_color": "Orange / Yellow",
-    "flower_type": "Annual",
-    "origin": "Mexico / South America",
-    "price": 80,
-    "symbolism": "Prosperity and Good Luck"
+    "id": 5,
+    "flower_name": "Rose",
+    "flower_img": "https://i.ibb.co/YBL3BCWS/white-Rose.jpg",
+    "flower_color": "White",
+    "flower_type": "Perennial",
+    "origin": "Asia",
+    "price": 150,
+    "symbolism": "Love and Romance"
   },
   {
-    "flower_name": "Lily",
-    "flower_img": "https://i.ibb.co/8nHYVDWR/Rose.jpg",
-    "flower_color": "White / Pink",
+    "id": 6,
+    "flower_name": "Rose",
+    "flower_img": "https://i.ibb.co/r2WMnvDr/pinkRose.jpg",
+    "flower_color": "pink",
     "flower_type": "Perennial",
-    "origin": "Asia / Europe",
-    "price": 180,
-    "symbolism": "Purity, Renewal, and Motherhood"
+    "origin": "Asia",
+    "price": 150,
+    "symbolism": "Love and Romance"
   }
 ]

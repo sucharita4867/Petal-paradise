@@ -3,6 +3,7 @@ import "./App.css";
 import AvailableFlowers from "./componante/AvialableFlowers/AvailableFlowers";
 import Navber from "./componante/Navber/Navber";
 import SelectedFlowers from "./componante/SelectedFlowers/SelectedFlowers";
+import FlowerBtn from "./componante/flowerBtn/FlowerBtn";
 const fetchFlower = async () => {
   const res = await fetch("/FlowersData.json");
   return res.json();
@@ -12,6 +13,7 @@ function App() {
   return (
     <>
       <Navber></Navber>
+      <FlowerBtn></FlowerBtn>
       <Suspense
         fallback={<span className="loading loading-dots loading-xl"></span>}
       >
