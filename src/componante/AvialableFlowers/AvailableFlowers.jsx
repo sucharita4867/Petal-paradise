@@ -4,18 +4,18 @@ const AvailableFlowers = ({ FlowersPromise }) => {
   const flowerData = use(FlowersPromise);
   console.log(flowerData);
   return (
-    <div className="mx-auto w-96 ">
+    <div className=" grid grid-cols-3 gap-4">
       {flowerData.map((flower) => (
-        <div class="card bg-base-100  shadow-sm ">
-          <figure>
-            <img src="" alt="Shoes" />
-          </figure>
+        <div
+          key={flower.flower_name}
+          className="h-fit card border border-black"
+        >
           <img
             src={flower.flower_img}
             alt={flower.flower_name}
-            className="flower-img"
+            className="flower-img w-[full] h-[50%]"
           />
-          <h2 className="flower-title">{flower.flower_name}</h2>
+          {/* <h2 className="flower-title">{flower.flower_name}</h2>
           <p className="flower-text">
             <b>Color:</b> {flower.flower_color}
           </p>
@@ -29,7 +29,7 @@ const AvailableFlowers = ({ FlowersPromise }) => {
             <b>Price:</b> ${flower.price}
           </p>
           <p className="flower-symbolism">✨ {flower.symbolism}</p>
-          <button className="flower-btn">Buy Now</button>
+          <button className="flower-btn">Buy Now</button> */}
         </div>
       ))}
     </div>

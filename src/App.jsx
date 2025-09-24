@@ -13,7 +13,7 @@ function App() {
     <>
       <Navber></Navber>
       <Suspense
-        fallback={<span class="loading loading-dots loading-xl"></span>}
+        fallback={<span className="loading loading-dots loading-xl"></span>}
       >
         <AvailableFlowers FlowersPromise={FlowersPromise}></AvailableFlowers>
       </Suspense>

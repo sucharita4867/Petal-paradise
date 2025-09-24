@@ -64,7 +64,7 @@
   },
   {
     "flower_name": "Daisy",
-    "flower_img": "https://i.ibb.co/5r9bG64/daisy.jpg",
+    "flower_img": "https://i.ibb.co/T5CmWw7/Lotus.jpg",
     "flower_color": "White",
     "flower_type": "Annual",
     "origin": "Europe",
@@ -73,7 +73,7 @@
   },
   {
     "flower_name": "Lavender",
-    "flower_img": "https://i.ibb.co/9hgkbpp/lavender.jpg",
+    "flower_img": "https://i.ibb.co/T5CmWw7/Lotus.jpg",
     "flower_color": "Purple",
     "flower_type": "Perennial",
     "origin": "Mediterranean",
@@ -82,7 +82,7 @@
   },
   {
     "flower_name": "Hibiscus",
-    "flower_img": "https://i.ibb.co/X5TwTny/hibiscus.jpg",
+    "flower_img": "https://i.ibb.co/T5CmWw7/Lotus.jpg",
     "flower_color": "Red",
     "flower_type": "Shrub",
     "origin": "Asia",
@@ -91,7 +91,7 @@
   },
   {
     "flower_name": "Peony",
-    "flower_img": "https://i.ibb.co/NLVRVwq/peony.jpg",
+    "flower_img": "https://i.ibb.co/T5CmWw7/Lotus.jpg",
     "flower_color": "Pink",
     "flower_type": "Perennial",
     "origin": "China",
@@ -100,7 +100,7 @@
   },
   {
     "flower_name": "Cherry Blossom",
-    "flower_img": "https://i.ibb.co/2sPKc3F/cherry-blossom.jpg",
+    "flower_img": "https://i.ibb.co/T5CmWw7/Lotus.jpg",
     "flower_color": "Light Pink",
     "flower_type": "Tree Bloom",
     "origin": "Japan",
